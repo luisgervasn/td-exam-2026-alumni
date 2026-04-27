@@ -39,7 +39,7 @@
 - C) Siempre contienen un solo contenedor
 - D) Se reprograman automáticamente si fallan
 
-**Solución:** A, B
+**Solución:** A, B, D
 
 ## **5. Sobre ReplicaSet, elige las respuestas correctas:**
 
@@ -65,7 +65,7 @@
 - C) Crea un commit totalmente nuevo con un nuevo hash
 - D) Borra el commit original de la rama de origen
 
-**Solución:** D
+**Solución:** 
 
 
 ## **8. Sobre StatefulSets, elige las respuestas correctas:**
@@ -153,7 +153,7 @@
 - C) Las métricas se almacenan en una base de datos de series temporales
 - D) No soporta el descubrimiento dinámico de servicios
 
-**Solución:** B, C
+**Solución:** B, C, D
 
 ## **18. Elige las respuestas correctas sobre GitHub Actions**
 - A) Un "Job" es un conjunto de pasos que se ejecutan en el mismo runner
